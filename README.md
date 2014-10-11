@@ -6,3 +6,5 @@ Create a file called `auth.json` in the root of the project. Add the properties 
   "secret": "google-client-secret"
 }
 ```
+
+Start the application locally with: `meteor --settings auth.json`
